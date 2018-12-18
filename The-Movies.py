@@ -391,8 +391,8 @@ def all_average():
     # Start display
     print(">> [status] Create Graph Starting!")
     select_mode = {'rate': 10, 'budget': 100, 'revenue': 200, 'runtime': 200}
-    all_rate = []
     for mode in select_mode:
+        all_rate = []
         for year in range(2000, 2017):
             print(mode, ">> Year : %i" % year)
             dataset = pd.read_csv("Top-100_Export/Top-100_%i.csv" % year)
@@ -415,7 +415,6 @@ def all_average():
                     temp.append(i)
             average = ((((sum(temp)/len(temp)))/1000000//0.01)/100)
             graph.add(mode.title(), [{'value': average, 'max_value': select_mode[mode]}], formatter=usd_formatter)
-        all_rate = []
     # End display
     print(">> [status] Created Graph Successful!")
     graph.render_to_file("Graph_Export/All_Average_of_Movies.svg")
