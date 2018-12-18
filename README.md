@@ -2,7 +2,7 @@
 
 ### Author : The - Dev
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)
-* **เว็บไซต์ :** [https://max180643.github.io/The-Movies/](https://max180643.github.io/The-Movies/)
+* **เว็บไซต์ :** [https://napatkrup.github.io/The-Movies/](https://napatkrup.github.io/The-Movies/)
 * **Youtube :** [https://youtu.be/_0Z7Z0Oki3w](https://youtu.be/_0Z7Z0Oki3w)
 
 ### วัตถุประสงค์
@@ -10,20 +10,20 @@
 
 ### ขอบเขตของข้อมูล
 จาก Dataset ที่ได้มานั้นมีหนังอยู่หลายปี แต่เราได้นำข้อมูลหนังในช่วงปี 2000 - 2016 มาจัดเรียงข้อมูลให้อยู่ใน Top 100 อันดับโดยพิจารณาจากคะแนนของหนังจากมากไปน้อย
-![number](https://github.com/max180643/The-Movies/blob/master/Graph_Export/Number_of_Movies.svg)
+![number](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/Number_of_Movies.svg)
 
 ### ผลการดำเนินงาน
 จากการนำข้อมูลในขอบเขต มาวิเคราะห์ ทำให้ผลลัพท์ดังนี้
    * ค่าเฉลี่ยแต่ละปีของเงินทุนที่ใช้ในการทำหนัง
-   ![budget](https://github.com/max180643/The-Movies/blob/master/Graph_Export/Average_Budget_of_Movies.svg)
+   ![budget](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/Average_Budget_of_Movies.svg)
    * ค่าเฉลี่ยแต่ละปีของรายได้ของหนัง
-   ![revenue](https://github.com/max180643/The-Movies/blob/master/Graph_Export/Average_Revenue_of_Movies.svg)
+   ![revenue](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/Average_Revenue_of_Movies.svg)
    * ค่าเฉลี่ยแต่ละปีของความยาวของหนัง
-   ![runtime](https://github.com/max180643/The-Movies/blob/master/Graph_Export/Average_Runtime_of_Movies.svg)
+   ![runtime](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/Average_Runtime_of_Movies.svg)
    * ค่าเฉลี่ยแต่ละปีของคะแนนของหนัง
-   ![rate](https://github.com/max180643/The-Movies/blob/master/Graph_Export/Average_Rated_of_Movies.svg)
+   ![rate](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/Average_Rated_of_Movies.svg)
    * ค่าเฉลี่ยรวมของทุกๆหัวข้อ
-   ![average](https://github.com/max180643/The-Movies/blob/master/Graph_Export/All_Average_of_Movies.svg)
+   ![average](https://github.com/NAPATKRUP/Project-The-Movies/blob/master/Graph_Export/All_Average_of_Movies.svg)
 
 ### โปรแกรมที่ใช้ในการวิเคราะห์และแสดงผลข้อมูล
 ##### 1. Python3
