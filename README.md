@@ -1,5 +1,7 @@
 # The - Movies 🎬
 
+#### Main Git Repo: https://github.com/max180643/The-Movies
+
 ### Author : The - Dev
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT)
 * **เว็บไซต์ :** [https://napatkrup.github.io/The-Movies/](https://napatkrup.github.io/The-Movies/)
